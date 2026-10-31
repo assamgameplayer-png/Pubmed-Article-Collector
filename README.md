@@ -6,6 +6,8 @@ individual PubMed article webpages and saves it to an Excel file.
 It reads the public article page directly using `requests` and `BeautifulSoup`.
 It does **not** use the PubMed API or NCBI E-utilities, and needs no paid
 services or API keys.
+![Uploading image.png…]()
+
 
 ## Extracted fields
 
